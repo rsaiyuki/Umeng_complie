@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/assets"/></dataSet><dataSet config="release"><source path="/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build-types/release/assets"/></dataSet></merger>

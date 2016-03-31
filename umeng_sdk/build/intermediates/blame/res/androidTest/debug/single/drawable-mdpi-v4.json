@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/messenger_bubble_large_blue.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/messenger_bubble_small_blue.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/messenger_button_send_round_shadow.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_button_icon.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_button_icon.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/messenger_bubble_small_white.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_button_send_icon.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/messenger_bubble_large_white.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_close.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png",
+        "source": "/Users/chendong/Desktop/workspace/android/Umeng_complie/umeng_sdk/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
+    }
+]

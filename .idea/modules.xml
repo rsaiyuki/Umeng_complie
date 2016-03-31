@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Umeng_complie.iml" filepath="$PROJECT_DIR$/Umeng_complie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng_sdk/umeng_sdk.iml" filepath="$PROJECT_DIR$/umeng_sdk/umeng_sdk.iml" />
+    </modules>
+  </component>
+</project>
